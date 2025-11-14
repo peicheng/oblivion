@@ -72,4 +72,5 @@ The CC BY-NC-SA 4.0 License is a free, copyleft license suitable for non-commerc
 
 - **ShareAlike (SA)**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
+
 This summary is only a brief overview. For the full legal text, please visit the provided link.
